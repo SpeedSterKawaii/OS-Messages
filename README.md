@@ -1,4 +1,3 @@
-# OS-Messages
+# OS Messages and Prompts
 
-If I ever Develop an OS (Operating System), Most likely, I will use this prompt(s). 
-# **NOTE: DO NOT USE THIS, YOU ARE NOT ALLOWED TO!**
+If I ever develop an OS or modded Windows 10 (anything), I am most likely going to use *these* prompts. **Remember that you are not allowed to use any of these messages!**
